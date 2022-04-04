@@ -4,23 +4,32 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 . Clone this repository from your GitHub account
 2. `npm install` in the project root folder on local
-3. `npm run dev` to start the Studio and frontend locally
-   - Your Studio should be running on [http://localhost:3333](http://localhost:3333)
+3. `npm run dev` to start  frontend locally
    - Your frontend should be running on [http://localhost:8000](http://localhost:8000)
 4. `npm run build` to build to production locally
 
+
+![2022-04-04 (6)](https://user-images.githubusercontent.com/78896400/161522138-159f539b-cdc0-44fa-bed5-6f1c1fb98835.png)
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.![2022-04-04 (3)](https://user-images.githubusercontent.com/78896400/161520970-4fa03294-b669-4b47-a389-6096b8d8593f.png)
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 
-add location in search field 
+database location:
+![2022-04-04 (3)](https://user-images.githubusercontent.com/78896400/161520970-4fa03294-b669-4b47-a389-6096b8d8593f.png)
+
+
+add location in search field :
 ![2022-04-04 (4)](https://user-images.githubusercontent.com/78896400/161521483-323f4e88-f18a-4f9a-abbc-bce1f8487bb4.png)
 
-## Learn More
+
+and finally like this:
+
+[Uploading 2022-04-04 (5).png…]()
+
 
 To learn more about Next.js, take a look at the following resources:
 
