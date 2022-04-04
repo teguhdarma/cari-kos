@@ -1,0 +1,23 @@
+.fade-anim img {
+    animation: fadeAnim 0.5s ease-out;
+  }
+  @keyframes fadeAnim {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .App 
+{
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  * {
+    margin: 0;
+  }
+  
+  
+  
