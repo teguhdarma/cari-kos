@@ -2,15 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+. Clone this repository from your GitHub account
+2. `npm install` in the project root folder on local
+3. `npm run dev` to start the Studio and frontend locally
+   - Your Studio should be running on [http://localhost:3333](http://localhost:3333)
+   - Your frontend should be running on [http://localhost:8000](http://localhost:8000)
+4. `npm run build` to build to production locally
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
