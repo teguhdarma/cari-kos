@@ -28,7 +28,7 @@ add location in search field :
 
 and finally like this:
 
-[Uploading 2022-04-04 (5).png…]()
+![2022-04-04 (5)](https://user-images.githubusercontent.com/78896400/161522281-cba4aa2d-a45e-4848-ba42-a9174d3479f0.png)
 
 
 To learn more about Next.js, take a look at the following resources:
