@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 . Clone this repository from your GitHub account
 2. `npm install` in the project root folder on local
 3. `npm run dev` to start  frontend locally
-   - Your frontend should be running on [http://localhost:8000](http://localhost:8000)
+   - Your frontend should be running on [http://localhost:8000](http://localhost:000)
 4. `npm run build` to build to production locally
 
 
